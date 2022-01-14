@@ -11,3 +11,6 @@ def mul(a,b) :
 
 def div(a,b) :
     return a / b
+
+def share(a,b):
+    return a // b
