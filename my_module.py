@@ -13,4 +13,7 @@ def div(a,b) :
     return a / b
 
 def share(a,b):
-    return a // b #주석 이다
+    return a // b
+
+def cal(a,b,c):
+    return a * b / c
