@@ -16,4 +16,4 @@ def share(a,b):
     return a // b
 
 def cal(a,b,c):
-    return a * b / c
+    return a * b / c #  주석을 달았다.
