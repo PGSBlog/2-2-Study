@@ -53,3 +53,7 @@ int main(void){
 나는 :kr:에서 :octocat:를 사용하는 :alien:입니다
 
 [사용할수 있는 이모티콘 사이트](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+**git의 명령 자료는 다음과 같이 작성할 수 있습니다.**
+
+[유튜브](https://youtu.be/LwrXK68o-q8)
